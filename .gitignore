@@ -13,3 +13,4 @@ ENV/
 .DS_Store 
 Thumbs.db 
 models/*.pkl 
+Honors_Mini_project_report.docx
